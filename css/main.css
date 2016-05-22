@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css?family=Anton);/*text-present*/
+body{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+#present{
+    height: 800px;
+    width: 100%;
+    background-image: url("../img/portada.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.text-present{
+	font-family: 'Anton', sans-serif;
+	font-size: 10em;
+	color: white;
+	margin-top: 50px;
+}
+.img-present{
+    height: 200px;
+    margin-top: 30px;
+}
+hr{
+    text-align: center;
+    width: 25%;
+    border: 2px solid white;
+}
+h2{
+	font-size: 3em;
+	font-family: 'Anton', sans-serif;
+}
+#queremos{
+	padding: 5%;
+}
+p{
+	width: 70%;
+    margin: auto;
+    margin-top: 20px;
+}
+.img-req{
+	height: 100px;
+	margin-top: 10px;
+}
+#others-proyects{
+	background-image: url("../img/feature.jpg");
+	background-attachment: fixed;
+	color: white;
+	padding: 5%;
+}
+.img-others{
+	height: 300px;
+	width: 300px;
+	border-radius: 300px;
+	margin: auto;
+	margin-top: 50px;
+	text-align: center;
+}
+#invitacion{
+	padding: 5%;
+}
+footer{
+	background-image: url("../img/feature.jpg");
+	background-attachment: fixed;
+	color: white;
+	height: 50px;
+	padding-top: 15px;
+}
